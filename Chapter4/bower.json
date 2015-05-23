@@ -1,0 +1,17 @@
+{
+  "name": "Chapter4",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-arrays": "~0.3.7",
+    "purescript-foldable-traversable": "~0.3.1",
+    "purescript-maybe": "~0.2.2"
+  }
+}
